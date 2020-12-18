@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbf08a08.chunk.css",
+    "main.js": "/static/js/main.d3b2b8c8.chunk.js",
+    "main.js.map": "/static/js/main.d3b2b8c8.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.00070426.js",
+    "runtime~main.js.map": "/static/js/runtime~main.00070426.js.map",
+    "static/js/2.efbbf1f6.chunk.js": "/static/js/2.efbbf1f6.chunk.js",
+    "static/js/2.efbbf1f6.chunk.js.map": "/static/js/2.efbbf1f6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.79d8ae9deed04b19b6e28cc6b82cd3b0.js": "/precache-manifest.79d8ae9deed04b19b6e28cc6b82cd3b0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cbf08a08.chunk.css.map": "/static/css/main.cbf08a08.chunk.css.map",
+    "static/media/chat.css": "/static/media/card-newone.1193c50a.jpg",
+    "static/media/hero-a.svg": "/static/media/hero-a.2a8153ef.svg",
+    "static/media/trees.jpg": "/static/media/trees.747791fb.jpg"
+  }
+}
